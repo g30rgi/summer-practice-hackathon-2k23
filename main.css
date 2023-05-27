@@ -1,0 +1,39 @@
+.titlu {
+    text-align: left;
+    color: white;
+}
+
+.topbar {
+    background-color: blue;
+}
+
+.button {
+    border: none;
+    color: blue;
+    text-align: center;
+    cursor: pointer;
+}
+
+.hide{
+    display: none;
+}
+
+.show{
+    display: block;
+}
+
+.menu{
+    border-radius: 25px;
+    background: #888;
+    margin: auto;
+    width: 50%;
+    height: 50%;
+    padding: 20px;
+    text-align: center;
+}
+
+.afisare{
+    background-color: aquamarine;
+}
+
+
